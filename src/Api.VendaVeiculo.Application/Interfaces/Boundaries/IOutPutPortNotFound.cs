@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Api.VendaVeiculo.Application.Interfaces.Boundaries
+﻿namespace Api.VendaVeiculo.Application.Interfaces.Boundaries
 {
     /// <summary>
     /// Output de retorno not found.

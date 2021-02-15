@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
 namespace Api.VendaVeiculo.Domain.Entities
 {
@@ -16,6 +15,6 @@ namespace Api.VendaVeiculo.Domain.Entities
         public Vendedor Vendedor { get; set; }
         [Required]
         public List<Veiculo> Veiculo { get; set; }
-       
+
     }
 }

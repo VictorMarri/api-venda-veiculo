@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Api.VendaVeiculo.Domain.Entities
+﻿namespace Api.VendaVeiculo.Domain.Entities
 {
     public class Vendedor
     {

@@ -7,10 +7,17 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.V
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.WebApi.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\ref\Api.VendaVeiculo.WebApi.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.WebApi.pdb
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\FluentMediator.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\FluentMediator.Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Flunt.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.Application.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.Domain.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.Application.pdb
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\bin\Debug\net5.0\Api.VendaVeiculo.Domain.pdb
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\obj\Debug\net5.0\Api.VendaVeiculo.WebApi.csprojAssemblyReference.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\obj\Debug\net5.0\Api.VendaVeiculo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.WebApi\obj\Debug\net5.0\Api.VendaVeiculo.WebApi.AssemblyInfoInputs.cache

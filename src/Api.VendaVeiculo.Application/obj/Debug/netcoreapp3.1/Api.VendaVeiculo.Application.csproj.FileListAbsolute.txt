@@ -1,5 +1,12 @@
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.deps.json
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.pdb
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csprojAssemblyReference.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfoInputs.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfo.cs
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csproj.CoreCompileInputs.cache
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csproj.CopyComplete
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.dll
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.pdb
