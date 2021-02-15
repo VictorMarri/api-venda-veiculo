@@ -1,0 +1,4 @@
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.csprojAssemblyReference.cache
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.AssemblyInfoInputs.cache
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.AssemblyInfo.cs
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.csproj.CoreCompileInputs.cache

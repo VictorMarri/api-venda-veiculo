@@ -1,3 +1,4 @@
+using Api.VendaVeiculo.WebApi.Modules;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,7 +27,9 @@ namespace Api.VendaVeiculo.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddUseCase();
+            services.AddMediator();
+            services.AddPresenters();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

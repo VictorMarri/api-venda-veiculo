@@ -2,3 +2,4 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcore
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csprojAssemblyReference.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfoInputs.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfo.cs
+C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csproj.CoreCompileInputs.cache
