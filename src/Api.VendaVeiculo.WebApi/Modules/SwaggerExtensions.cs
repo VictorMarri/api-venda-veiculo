@@ -15,8 +15,7 @@ namespace Api.VendaVeiculo.WebApi.Modules
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "API de venda de veículos");
-
-                c.OAuthClientId(Environment.GetEnvironmentVariable("OAuthClientId"));
+   
             });
         }
 
@@ -24,34 +23,15 @@ namespace Api.VendaVeiculo.WebApi.Modules
         {
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", info: new OpenApiInfo
+                c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "API de Evento Vers",
+                    Title = "API de venda de veículo",
                     Description = "Api responsavel por Controlar as vendas de veículos",
                     Version = "v1",
                     TermsOfService = new Uri("https://www.google.com")
                 });
 
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-                {
-                    In = ParameterLocation.Header,
-                    Description = "Preencha o JWT no campo abaixo para validar a API.",
-                    Name = "Authorization",
-                    Type = SecuritySchemeType.ApiKey
-                });
-                c.AddSecurityRequirement(new OpenApiSecurityRequirement {
-                {
-                     new OpenApiSecurityScheme
-                     {
-                        Reference = new OpenApiReference
-                        {
-                          Type = ReferenceType.SecurityScheme,
-                          Id = "Bearer"
-                        }
-                     }, new string[] { }
-                    }
-                });
-
+                
                 var apiPath = Path.Combine(AppContext.BaseDirectory, "Api.VendaVeiculo.WebApi.xml");
                 var applicationPath = Path.Combine(AppContext.BaseDirectory, "Api.VendaVeiculo.Application.xml");
 

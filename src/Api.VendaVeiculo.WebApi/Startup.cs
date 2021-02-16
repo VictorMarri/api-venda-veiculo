@@ -1,10 +1,12 @@
-using Api.VendaVeiculo.WebApi.Modules;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Api.VendaVeiculo.WebApi.Modules;
 using Microsoft.OpenApi.Models;
+
 
 namespace Api.VendaVeiculo.WebApi
 {
@@ -25,10 +27,21 @@ namespace Api.VendaVeiculo.WebApi
             services.AddMediator();
             services.AddPresenters();
             services.AddControllers();
-            services.AddSwaggerGen(c =>
+
+            services.AddApiVersioning(p =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Api.VendaVeiculo.WebApi", Version = "v1" });
+                p.DefaultApiVersion = new ApiVersion(1, 0);
+                p.ReportApiVersions = true;
+                p.AssumeDefaultVersionWhenUnspecified = true;
             });
+
+
+            services.AddVersionedApiExplorer(p =>
+            {
+                p.GroupNameFormat = "'v'VVV";
+                p.SubstituteApiVersionInUrl = true;
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,8 +50,6 @@ namespace Api.VendaVeiculo.WebApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api.VendaVeiculo.WebApi v1"));
             }
 
             app.UseHttpsRedirection();

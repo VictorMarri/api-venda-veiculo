@@ -10,7 +10,9 @@ using System.Threading.Tasks;
 namespace Api.VendaVeiculo.WebApi.Controllers
 {
     [ApiController]
-    public class CadastraVendedor : Controller
+    [ApiVersion("1")]
+    [Route("api/v{api-version:apiVersion}/[controller]")]
+    public class CadastraVendedor : ControllerBase
     {
         private readonly IMediator _mediator;
 
@@ -19,7 +21,7 @@ namespace Api.VendaVeiculo.WebApi.Controllers
             _mediator = mediator;
         }
 
-        [HttpPost]
+        [HttpPost, Route("")]
         [ProducesResponseType(typeof(CadastraVendedorOutput), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorResult), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(ErrorResult), StatusCodes.Status500InternalServerError)]

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.VendaVeiculo.WebApi</name>
+    </assembly>
+    <members>
+        <member name="P:Api.VendaVeiculo.WebApi.Models.ErrorResult.Erros">
+            <summary>
+            Erros das notificações.
+            </summary>
+        </member>
+        <member name="M:Api.VendaVeiculo.WebApi.Models.ErrorResult.#ctor(System.String)">
+            <summary>
+            Construtor
+            </summary>
+            <param name="erro">Nome do erro.</param>
+        </member>
+        <member name="M:Api.VendaVeiculo.WebApi.Models.ErrorResult.#ctor(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            Define lista de erros.
+            </summary>
+            <param name="erros">Lista de todos erros.</param>
+        </member>
+        <member name="M:Api.VendaVeiculo.WebApi.Models.ErrorResult.#ctor(System.Collections.Generic.IReadOnlyCollection{Flunt.Notifications.Notification})">
+            <summary>
+            Passa notificações dos erros.
+            </summary>
+            <param name="notifications">Notificações</param>
+        </member>
+    </members>
+</doc>
