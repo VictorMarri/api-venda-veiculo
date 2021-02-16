@@ -20,6 +20,7 @@ namespace Api.VendaVeiculo.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.ConfiguraSwagger();
             services.AddUseCase();
             services.AddMediator();
             services.AddPresenters();
@@ -41,7 +42,7 @@ namespace Api.VendaVeiculo.WebApi
             }
 
             app.UseHttpsRedirection();
-
+            app.UsaSwaggerUi();
             app.UseRouting();
 
             app.UseAuthorization();
