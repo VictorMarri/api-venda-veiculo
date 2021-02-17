@@ -19,11 +19,12 @@ namespace Api.VendaVeiculo.Application.Services
 
             if (input.Valid)
             {
+                //Manipulação com o banco de dados aqui
                 _outputPort.Success(new CadastraVendedorOutput("Vendedor Cadastrado com Sucesso!"));
                 return;
             }
 
-            _outputPort.WriteError("Error");
+            _outputPort.WriteError(input.Notifications);
         }
     }
 }
