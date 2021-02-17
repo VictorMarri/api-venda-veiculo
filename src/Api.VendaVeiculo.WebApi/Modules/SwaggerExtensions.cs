@@ -25,8 +25,8 @@ namespace Api.VendaVeiculo.WebApi.Modules
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "API de venda de veículo",
-                    Description = "Api responsavel por Controlar as vendas de veículos",
+                    Title = "Victor Auto Car - API",
+                    Description = "Api responsavel pelo controle de venda ded veículos",
                     Version = "v1",
                     TermsOfService = new Uri("https://www.google.com")
                 });

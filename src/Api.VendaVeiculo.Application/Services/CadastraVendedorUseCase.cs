@@ -20,7 +20,10 @@ namespace Api.VendaVeiculo.Application.Services
             if (input.Valid)
             {
                 _outputPort.Success(new CadastraVendedorOutput("Vendedor Cadastrado com Sucesso!"));
+                return;
             }
+
+            _outputPort.WriteError("Error");
         }
     }
 }
