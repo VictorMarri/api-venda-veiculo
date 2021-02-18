@@ -5,9 +5,6 @@ using Api.VendaVeiculo.WebApi.Presenters;
 using FluentMediator;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace Api.VendaVeiculo.WebApi.Controllers

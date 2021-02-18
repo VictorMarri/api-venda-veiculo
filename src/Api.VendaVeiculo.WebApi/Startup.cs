@@ -1,11 +1,10 @@
+using Api.VendaVeiculo.WebApi.Modules;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Api.VendaVeiculo.WebApi.Modules;
-using Microsoft.OpenApi.Models;
 
 
 namespace Api.VendaVeiculo.WebApi

@@ -15,7 +15,7 @@ namespace Api.VendaVeiculo.WebApi.Modules
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "API de venda de veículos");
-   
+
             });
         }
 
@@ -31,7 +31,7 @@ namespace Api.VendaVeiculo.WebApi.Modules
                     TermsOfService = new Uri("https://www.google.com")
                 });
 
-                
+
                 var apiPath = Path.Combine(AppContext.BaseDirectory, "Api.VendaVeiculo.WebApi.xml");
                 var applicationPath = Path.Combine(AppContext.BaseDirectory, "Api.VendaVeiculo.Application.xml");
 
