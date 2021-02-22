@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj": {}
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj",
         "projectName": "Api.VendaVeiculo.Application",
-        "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj",
+        "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj",
         "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\obj\\",
+        "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
-                "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj"
+              "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj",
         "projectName": "Api.VendaVeiculo.Domain",
-        "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj",
+        "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj",
         "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj": {
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
         "projectName": "Api.VendaVeiculo.WebApi",
-        "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
-                "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
+              "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
+                "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
               }
             }
           }

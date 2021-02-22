@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Api.VendaVeiculo.Application.ViewModels.Validators
 {

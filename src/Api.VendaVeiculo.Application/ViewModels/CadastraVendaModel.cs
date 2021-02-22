@@ -5,7 +5,6 @@ using Flunt.Notifications;
 using Flunt.Validations;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Api.VendaVeiculo.Application.ViewModels
 {
@@ -22,8 +21,8 @@ namespace Api.VendaVeiculo.Application.ViewModels
         public void Validate()
         {
             AddNotifications(new Contract()
-                    .Requires().IsTrue(new StatusExists(StatusVenda.ToString()).enumValue(),nameof(StatusVenda),"Status de venda não está correto!")
-                    .Requires().IsNotNull(Vendedor, nameof(Vendedor),"Deve haver um vendedor preenchido para uma venda!")
+                    .Requires().IsTrue(new StatusExists(StatusVenda.ToString()).enumValue(), nameof(StatusVenda), "Status de venda não está correto!")
+                    .Requires().IsNotNull(Vendedor, nameof(Vendedor), "Deve haver um vendedor preenchido para uma venda!")
                     .Requires().IsNotNullOrEmpty(Data.ToString(), nameof(Data), "Data não pode estar vazio!")
                     .Requires().IsNotNull(Veiculo, nameof(Veiculo), "Deve haver um veiculo preenchido!")
                 );

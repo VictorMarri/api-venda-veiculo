@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Api.VendaVeiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj": {}
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Api.VendaVeiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj": {
+    "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Api.VendaVeiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj",
         "projectName": "Api.VendaVeiculo.Tests",
-        "projectPath": "C:\\Workspace\\Api.VendaVeiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj",
+        "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\tests\\Api.VendaVeiculo.Tests\\Api.VendaVeiculo.Tests.csproj",
         "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Api.VendaVeiculo\\tests\\Api.VendaVeiculo.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\tests\\Api.VendaVeiculo.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",

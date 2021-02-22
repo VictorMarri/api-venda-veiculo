@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYg8UPCbATp69Tvl0bRc8IdQk31LSsZU0pWKChWsGloYQAU/w+9svanzlObALzKySw0/hM1b2s1kBlKydVHP2g==",
+  "dgSpecHash": "Bk6VKZa4uGzM7Gzia/r4xdaGhJI1e/HQWnz9UuTg2AVnYyoMu3QI3T5fvgWgdqUzMLKX08BIDENtb03LG9Iysw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Api.VendaVeiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
