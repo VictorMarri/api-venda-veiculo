@@ -4963,11 +4963,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
       "projectName": "Api.VendaVeiculo.WebApi",
-      "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4984,8 +4984,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
-              "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
+            "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
+              "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
             }
           }
         }

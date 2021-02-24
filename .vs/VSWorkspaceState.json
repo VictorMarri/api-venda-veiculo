@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\src",
+    "\\src\\Api.VendaVeiculo.Application",
+    "\\src\\Api.VendaVeiculo.Domain",
+    "\\src\\Api.VendaVeiculo.Infra.Data",
+    "\\src\\Api.VendaVeiculo.Infra.IoC",
+    "\\src\\Api.VendaVeiculo.WebApi",
+    "\\tests"
+  ],
+  "PreviewInSolutionExplorer": false
+}

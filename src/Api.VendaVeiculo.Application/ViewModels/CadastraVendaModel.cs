@@ -14,7 +14,7 @@ namespace Api.VendaVeiculo.Application.ViewModels
 
         public DateTime Data { get; set; }
 
-        public List<Vendedor> Vendedor { get; set; }
+        public Guid IdVendedor { get; set; }
 
         public List<Veiculo> Veiculo { get; set; }
 
@@ -22,7 +22,7 @@ namespace Api.VendaVeiculo.Application.ViewModels
         {
             AddNotifications(new Contract()
                     .Requires().IsTrue(new StatusExists(StatusVenda.ToString()).enumValue(), nameof(StatusVenda), "Status de venda não está correto!")
-                    .Requires().IsNotNull(Vendedor, nameof(Vendedor), "Deve haver um vendedor preenchido para uma venda!")
+                    .Requires().IsNotNull(IdVendedor, nameof(IdVendedor), "Por Favor, insira um ID de vendedor!")
                     .Requires().IsNotNullOrEmpty(Data.ToString(), nameof(Data), "Data não pode estar vazio!")
                     .Requires().IsNotNull(Veiculo, nameof(Veiculo), "Deve haver um veiculo preenchido!")
                 );

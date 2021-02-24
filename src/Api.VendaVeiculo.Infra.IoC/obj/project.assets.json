@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
       "projectName": "Api.VendaVeiculo.Infra.IoC",
-      "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
+      "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj",
       "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\obj\\",
+      "outputPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
-              "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj"
+            "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj": {
+              "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Domain\\Api.VendaVeiculo.Domain.csproj"
             },
-            "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.Data\\Api.VendaVeiculo.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.Data\\Api.VendaVeiculo.Infra.Data.csproj"
+            "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.Data\\Api.VendaVeiculo.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.Data\\Api.VendaVeiculo.Infra.Data.csproj"
             }
           }
         }

@@ -11,7 +11,7 @@ namespace Api.VendaVeiculo.Domain.Entities
 
         public DateTime Data { get; set; }
 
-        public Vendedor Vendedor { get; set; }
+        public Guid IdVendedor { get; set; }
 
         public List<Veiculo> Veiculo { get; set; }
 

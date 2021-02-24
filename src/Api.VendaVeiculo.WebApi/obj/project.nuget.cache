@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKayL48qPrB4jtDcbyqrLBWg1Tsgi86K+ftoNsRFnTcfTuM/Kk6jYB2ldIEV9k22D8E/ml3c0l6xuUuXeO+dkQ==",
+  "dgSpecHash": "e4thP9SlamOjCb4v8KfVcDCY73Ob3nH2G8K5bxyfmgO5WVNJuhCxhlRzbgle3CS8NCN9vuD0RsT8ScYeGgCZMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor Marri\\Source\\Repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentmediator\\0.4.7\\fluentmediator.0.4.7.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentmediator.microsoft.extensions.dependencyinjection\\0.4.7\\fluentmediator.microsoft.extensions.dependencyinjection.0.4.7.nupkg.sha512",
