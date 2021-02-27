@@ -11,3 +11,16 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcore
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.pdb
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.xml
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.deps.json
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.xml
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfoInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.AssemblyInfo.cs
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.csproj.CopyComplete
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Application\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Application.pdb
