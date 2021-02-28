@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Api.VendaVeiculo.Domain\Api.VendaVeiculo.Domain.csproj" />
   </ItemGroup>
 

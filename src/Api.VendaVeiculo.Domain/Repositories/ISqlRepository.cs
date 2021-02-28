@@ -7,6 +7,13 @@ namespace Api.VendaVeiculo.Domain.Repositories
 {
     public interface ISqlRepository<T> where T : BaseEntity
     {
+        T Create(T entity);
+
+        T FindById(int id);
+
+        List<T> FindAll();
+
+        void Delete(int id);
 
     }
 }
