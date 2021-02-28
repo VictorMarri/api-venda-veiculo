@@ -1486,9 +1486,6 @@
       "Api.VendaVeiculo.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3"
-        },
         "compile": {
           "bin/placeholder/Api.VendaVeiculo.Domain.dll": {}
         },
@@ -1500,7 +1497,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Api.VendaVeiculo.Domain": "1.0.0"
+          "Api.VendaVeiculo.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3"
         },
         "compile": {
           "bin/placeholder/Api.VendaVeiculo.Infra.Data.dll": {}

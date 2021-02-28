@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Api.VendaVeiculo.Application\Api.VendaVeiculo.Application.csproj" />
+    <ProjectReference Include="..\Api.VendaVeiculo.Infra.IoC\Api.VendaVeiculo.Infra.IoC.csproj" />
   </ItemGroup>
 
 </Project>

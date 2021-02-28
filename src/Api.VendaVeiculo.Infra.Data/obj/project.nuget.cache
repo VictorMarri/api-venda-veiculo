@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R5mAsmv34RbXzVjmqJkzVirDqwe22Soy+ENwbfr3bxSsotyQDu0GKHKG9ubMgg0v1f3BcEOdQkhjX6ZAcpG4BA==",
+  "dgSpecHash": "3vb+I8WGfhrG77RHJPdQNDg6iQq42vcBkP1/GEgPAbdNmOpvc7sNsPfGVn883oCOYlSLNRqH1F25wC4VKhcAzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.Data\\Api.VendaVeiculo.Infra.Data.csproj",
   "expectedPackageFiles": [

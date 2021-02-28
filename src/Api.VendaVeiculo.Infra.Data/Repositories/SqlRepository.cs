@@ -1,5 +1,6 @@
 ﻿using Api.VendaVeiculo.Domain.Entities.Base;
 using Api.VendaVeiculo.Domain.Repositories;
+using Api.VendaVeiculo.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +9,8 @@ namespace Api.VendaVeiculo.Infra.Data.Repositories
 {
     public class SqlRepository<T> : ISqlRepository<T> where T : BaseEntity
     {
+        private SqlContext _context;
+
         public T Create(T entity)
         {
             throw new NotImplementedException();

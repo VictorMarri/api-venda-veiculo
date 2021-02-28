@@ -13,17 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infrastructure", "03 -
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Tests", "04 - Tests", "{5E1D0972-74DD-4FA5-83CA-1A9EF3F797CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.Application", "src\Api.VendaVeiculo.Application\Api.VendaVeiculo.Application.csproj", "{4935D075-50C9-468D-97BA-CD7432F5F302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.Application", "src\Api.VendaVeiculo.Application\Api.VendaVeiculo.Application.csproj", "{4935D075-50C9-468D-97BA-CD7432F5F302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.Domain", "src\Api.VendaVeiculo.Domain\Api.VendaVeiculo.Domain.csproj", "{ADCC98F3-63F2-4C55-BE0E-C660FDCB8FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.Domain", "src\Api.VendaVeiculo.Domain\Api.VendaVeiculo.Domain.csproj", "{ADCC98F3-63F2-4C55-BE0E-C660FDCB8FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.Tests", "tests\Api.VendaVeiculo.Tests\Api.VendaVeiculo.Tests.csproj", "{18E1147C-553A-48AA-ABC2-75F46D9F0585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.Tests", "tests\Api.VendaVeiculo.Tests\Api.VendaVeiculo.Tests.csproj", "{18E1147C-553A-48AA-ABC2-75F46D9F0585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.Infra.Data", "src\Api.VendaVeiculo.Infra.Data\Api.VendaVeiculo.Infra.Data.csproj", "{7D37754E-B26A-454A-8E19-A40E8C21A0AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.Infra.Data", "src\Api.VendaVeiculo.Infra.Data\Api.VendaVeiculo.Infra.Data.csproj", "{7D37754E-B26A-454A-8E19-A40E8C21A0AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.Infra.IoC", "src\Api.VendaVeiculo.Infra.IoC\Api.VendaVeiculo.Infra.IoC.csproj", "{4EC6106D-4D32-43A5-B168-7F08AC12FB93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.Infra.IoC", "src\Api.VendaVeiculo.Infra.IoC\Api.VendaVeiculo.Infra.IoC.csproj", "{4EC6106D-4D32-43A5-B168-7F08AC12FB93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.VendaVeiculo.WebApi", "src\Api.VendaVeiculo.WebApi\Api.VendaVeiculo.WebApi.csproj", "{736BD101-9457-431A-A75C-AEC2E002B6B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.VendaVeiculo.WebApi", "src\Api.VendaVeiculo.WebApi\Api.VendaVeiculo.WebApi.csproj", "{736BD101-9457-431A-A75C-AEC2E002B6B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +64,7 @@ Global
 		{ADCC98F3-63F2-4C55-BE0E-C660FDCB8FE8} = {F8143075-B307-415B-9086-F821F91E267A}
 		{18E1147C-553A-48AA-ABC2-75F46D9F0585} = {5E1D0972-74DD-4FA5-83CA-1A9EF3F797CA}
 		{7D37754E-B26A-454A-8E19-A40E8C21A0AC} = {B66247B9-A886-47D2-B6B4-C41688EFA7A5}
+		{4EC6106D-4D32-43A5-B168-7F08AC12FB93} = {B66247B9-A886-47D2-B6B4-C41688EFA7A5}
 		{736BD101-9457-431A-A75C-AEC2E002B6B1} = {3E8107B7-61B7-4979-9459-F8AA1195C3CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

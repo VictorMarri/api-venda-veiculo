@@ -8,4 +8,8 @@
     <ProjectReference Include="..\Api.VendaVeiculo.Domain\Api.VendaVeiculo.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.3" />
+  </ItemGroup>
+
 </Project>
