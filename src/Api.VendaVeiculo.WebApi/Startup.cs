@@ -25,16 +25,18 @@ namespace Api.VendaVeiculo.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.ConfiguraSwagger();
+            
             services.AddUseCase();
+            
             services.AddMediator();
+            
             services.AddPresenters();
+            
             services.AddControllers();
+            
             services.AddSettingsConfig(Configuration);
-
-            //services.AddDbContext<SqlContext>(options => 
-            //{
-            //    options.UseSqlServer
-            //})
+            
+            services.AddInterfacesAplicacao();
 
             services.AddApiVersioning(p =>
             {

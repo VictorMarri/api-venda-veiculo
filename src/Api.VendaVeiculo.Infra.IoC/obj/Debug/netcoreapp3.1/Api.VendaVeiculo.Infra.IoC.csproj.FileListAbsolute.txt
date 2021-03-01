@@ -12,3 +12,17 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreap
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.csproj.CopyComplete
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.deps.json
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.AssemblyInfo.cs
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.csproj.CopyComplete
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.IoC\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.IoC.pdb

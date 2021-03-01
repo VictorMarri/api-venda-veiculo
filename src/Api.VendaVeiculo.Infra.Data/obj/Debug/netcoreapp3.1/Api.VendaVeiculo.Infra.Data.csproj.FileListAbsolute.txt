@@ -10,3 +10,15 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcorea
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.csproj.CopyComplete
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.deps.json
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.AssemblyInfo.cs
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.csproj.CopyComplete
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Infra.Data\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Infra.Data.pdb
