@@ -32,7 +32,7 @@ namespace Api.VendaVeiculo.Infra.Data.Migrations
                         .HasColumnName("ano_fabricacao");
 
                     b.Property<string>("Marca")
-                        .HasColumnType("nvarchar(max)")
+                        .HasColumnType("nvarchar(25)")
                         .HasColumnName("marca");
 
                     b.Property<string>("Modelo")
