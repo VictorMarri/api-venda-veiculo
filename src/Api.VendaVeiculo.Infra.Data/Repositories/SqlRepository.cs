@@ -1,8 +1,10 @@
 ﻿using Api.VendaVeiculo.Domain.Entities.Base;
 using Api.VendaVeiculo.Domain.Repositories;
 using Api.VendaVeiculo.Infra.Data.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Api.VendaVeiculo.Infra.Data.Repositories
@@ -11,24 +13,45 @@ namespace Api.VendaVeiculo.Infra.Data.Repositories
     {
         private SqlContext _context;
 
+        private DbSet<T> dataset;
+
+        public SqlRepository(SqlContext context)
+        {
+            _context = context;
+            dataset = _context.Set<T>();
+        }
+
         public T Create(T entity)
         {
-            throw new NotImplementedException();
+            dataset.Add(entity);
+            _context.SaveChanges();
+
+            return entity;
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            var delete = dataset.SingleOrDefault(p => p.id.Equals(id));
+
+            if (delete != null)
+            {
+                dataset.Remove(delete);
+                _context.SaveChanges();
+            }
         }
 
         public List<T> FindAll()
         {
-            throw new NotImplementedException();
+            var dataList = dataset.ToList();
+
+            return dataList;
         }
 
         public T FindById(int id)
         {
-            throw new NotImplementedException();
+            var find = dataset.SingleOrDefault(p => p.id.Equals(id));
+
+            return find;
         }
     }
 }
