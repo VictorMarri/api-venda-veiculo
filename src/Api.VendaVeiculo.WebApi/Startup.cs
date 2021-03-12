@@ -38,6 +38,7 @@ namespace Api.VendaVeiculo.WebApi
             
             services.AddInterfacesAplicacao();
 
+            services.AddAutoMapper(DependencyResolver.GetCurrentAssemblies());
             services.AddApiVersioning(p =>
             {
                 p.DefaultApiVersion = new ApiVersion(1, 0);

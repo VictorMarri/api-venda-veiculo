@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Api.VendaVeiculo.Domain.Repositories
 {
-    public interface ISqlRepository<T> where T : BaseEntity
+    public interface ISqlRepository<T> where T : IBaseEntity
     {
         T Create(T entity);
 

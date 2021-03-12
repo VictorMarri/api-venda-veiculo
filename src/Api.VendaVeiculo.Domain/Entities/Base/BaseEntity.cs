@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 
 namespace Api.VendaVeiculo.Domain.Entities.Base
 {
-    public abstract class BaseEntity
+    public abstract class BaseEntity : IBaseEntity
     {
         [JsonIgnore]
         [Column("id")]

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "e0J+Hspxqsuvj6BNhtY+yENqRQpLC8/UKFqnIFg+ZbHGTQrWeVJxob0Qv68M96l8+iQS4opY14dK8D9SXKfzfA==",
+  "dgSpecHash": "cHFNVP+ctQdTRoPJhbRLGkKlKDXRKcOGZt1zG2YIXiZ2VJd8d4ThvsiW9fOYHfbBBLifEDFtZOy0XVoggynm7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentmediator\\0.4.7\\fluentmediator.0.4.7.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\fluentmediator.microsoft.extensions.dependencyinjection\\0.4.7\\fluentmediator.microsoft.extensions.dependencyinjection.0.4.7.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
@@ -102,7 +104,7 @@
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Victor Marri\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
