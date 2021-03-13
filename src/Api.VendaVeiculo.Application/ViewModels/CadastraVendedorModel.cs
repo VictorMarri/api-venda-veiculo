@@ -8,6 +8,7 @@ namespace Api.VendaVeiculo.Application.ViewModels
     /// </summary>
     public class CadastraVendedorModel : Notifiable, IValidatable
     {
+
         public string Nome { get; set; }
         public string CPF { get; set; }
         public string Email { get; set; }

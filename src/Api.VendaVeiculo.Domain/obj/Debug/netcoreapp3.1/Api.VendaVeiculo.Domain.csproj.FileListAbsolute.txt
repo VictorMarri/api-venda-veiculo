@@ -7,12 +7,11 @@ C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.csproj.CoreCompileInputs.cache
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
 C:\Workspace\Api.VendaVeiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
-C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.csprojAssemblyReference.cache
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.deps.json
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
+C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
 C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.AssemblyInfoInputs.cache
 C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.AssemblyInfo.cs
 C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
 C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\obj\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
-C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.deps.json
-C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.dll
-C:\Users\Victor Marri\source\repos\VictorMarri\api-venda-veiculo\src\Api.VendaVeiculo.Domain\bin\Debug\netcoreapp3.1\Api.VendaVeiculo.Domain.pdb
