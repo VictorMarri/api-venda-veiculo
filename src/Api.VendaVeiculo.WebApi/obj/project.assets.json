@@ -7774,19 +7774,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor Marri\\.nuget\\packages\\": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
       "projectName": "Api.VendaVeiculo.WebApi",
-      "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Victor Marri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.WebApi\\Api.VendaVeiculo.WebApi.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Victor Marri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7800,11 +7805,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
-              "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
+            "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj": {
+              "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.Application\\Api.VendaVeiculo.Application.csproj"
             },
-            "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\Victor Marri\\source\\repos\\VictorMarri\\api-venda-veiculo\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj"
+            "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Repositorios\\src\\Api.VendaVeiculo.Infra.IoC\\Api.VendaVeiculo.Infra.IoC.csproj"
             }
           }
         }
@@ -7876,7 +7881,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
